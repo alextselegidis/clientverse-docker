@@ -1,7 +1,7 @@
 <h1 align="center">
     <br>
     <a href="https://clientverse.org">
-        <img src="https://raw.githubusercontent.com/alextselegidis/clientverse/develop/logo.png" alt="Clientverse" width="150">
+        <img src="https://raw.githubusercontent.com/alextselegidis/clientverse/main/logo.png" alt="Clientverse" width="150">
     </a>
     <br>
     Clientverse Docker
